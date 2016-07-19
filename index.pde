@@ -1,6 +1,7 @@
 /* @pjs preload="avatars/aqualine-ultimate.png,avatars/aqualine-seedling.png,avatars/aqualine-seed.png,space/star.png,cute/GemBlue.png"; */
   var X = 120;
   draw = function() {
+  println("dear past taemoh it worked");
     fill(0, 0, 0);
     textSize(30);
     textSize(10);
