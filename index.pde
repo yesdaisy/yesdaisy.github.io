@@ -1,7 +1,7 @@
 /* @pjs preload="avatars/aqualine-ultimate.png,avatars/aqualine-seedling.png,avatars/aqualine-seed.png,space/star.png,cute/GemBlue.png"; */
   var X = 120;
   draw = function() {
-  text("this is the tutorial it's a little boring at first but it will get better", 0, 0);
+  text("this is the tutorial it's a little boring at first but it will get better", 30, 0);
     fill(0, 0, 0);
     textSize(30);
     textSize(10);
