@@ -2,7 +2,7 @@
   var X = 120;
   draw = function() {
   textSize(20);
-  text("this is the tutorial it's a little boring at first but it will get better", 0, 100);
+  text("this is the tutorial it's a little boring at first but it will get better. This game includes a mouse.", 0, 100);
     fill(0, 0, 0);
     textSize(30);
     textSize(10);
@@ -16,7 +16,7 @@
     triangle(50, 290, 25, 300, 50, 310);
 
     if(keyPressed&&keyCode===LEFT){
-    text();
+    text("You always use your arrow keys to move around");
       draw = function() {
         if(keyPressed&&keyCode===UP){
           draw= function() {
