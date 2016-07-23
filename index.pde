@@ -16,6 +16,7 @@
     triangle(50, 290, 25, 300, 50, 310);
 
     if(keyPressed&&keyCode===LEFT){
+    text();
       draw = function() {
         if(keyPressed&&keyCode===UP){
           draw= function() {
