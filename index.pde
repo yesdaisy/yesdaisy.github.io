@@ -16,6 +16,7 @@
     triangle(50, 290, 25, 300, 50, 310);
 
     if(keyPressed&&keyCode===LEFT){
+    fill(0, 0, 0);
     textSize(20);
     text("You always use your arrow keys to move around", 0, 100);
       draw = function() {
