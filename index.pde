@@ -2,7 +2,7 @@
   var X = 120;
   draw = function() {
   textSize(20);
-  text("this is the tutorial it's a little boring at first but it will get better. This game includes a mouse.", 0, 100);
+  text("this is the tutorial it's a little boring at first but it will get better. This game includes a mouse. you use arrow keys to move any other uses of the keyboard or mouse will be explained later.", 0, 100);
     fill(0, 0, 0);
     textSize(30);
     textSize(10);
