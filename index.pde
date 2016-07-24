@@ -299,7 +299,7 @@
                     }
                   };
                 }
-                text("use shift to pick things up.", 0, 10);
+                text("use shift to pick things up.", 0, 20);
                 background(0, 0, 255);
                 text("there's the trident! but what is it with these goggles?!", 200, 100);
                 stroke(0, 0, 0);
