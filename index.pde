@@ -3,7 +3,7 @@
   draw = function() {
   textSize(20);
   text("this is the tutorial it's a little boring at first but it will get better. This game includes a mouse.", 0, 20);
-  text("you use arrow keys to move shift to pick things up and any other uses of the keyboard or mouse will be explained later.", 0, 50);
+  text("you use arrow keys to move shift to pick things up any other uses of the keyboard or mouse will be explained later.", 0, 50);
     fill(0, 0, 0);
     textSize(30);
     textSize(10);
